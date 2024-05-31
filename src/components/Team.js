@@ -11,9 +11,7 @@ const Team = () => {
           <Col lg={6}>
             <h1 className="display-5 mb-0 text-primary">Tim Kami</h1>
           </Col>
-          <Col lg={6} className="text-lg-end">
-            <Button className="btn-primary py-3 px-5" href="">Contact Us</Button>
-          </Col>
+          
         </Row>
         <Row className="g-4">
           <Col lg={4} md={6} className="wow fadeInUp" data-wow-delay="0.1s">

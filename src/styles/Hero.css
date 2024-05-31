@@ -1,0 +1,48 @@
+#home {
+  background-color: linear-gradient(135deg, #ffafbd, #ffc3a0); /* Warna latar belakang */
+  padding: 100px 0; /* Padding atas dan bawah */
+}
+
+.display-3 {
+  color: #007bff; /* Warna teks utama */
+  font-weight: bold; /* Ketebalan teks */
+}
+
+.typed-text-output {
+  color: #343a40; /* Warna teks output */
+}
+
+.btn-primary {
+  background-color: #007bff; /* Warna tombol primer */
+  border-color: #007bff; /* Warna border tombol primer */
+}
+
+.btn-primary:hover {
+  background-color: #0056b3; /* Warna tombol primer saat dihover */
+  border-color: #0056b3; /* Warna border tombol primer saat dihover */
+}
+
+.btn-play {
+  background: transparent; /* Tombol putar video transparan */
+  border: none; /* Hapus border */
+  position: relative;
+}
+
+.btn-play span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); /* Pusatkan ikon */
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 10px 0 10px 20px; /* Ukuran ikon */
+  border-color: transparent transparent transparent #fff; /* Warna ikon */
+  cursor: pointer;
+}
+
+.img-fluid {
+  max-width: 100%; /* Lebar gambar maksimum 100% */
+  height: auto; /* Tinggi gambar otomatis */
+  border-radius: 10px; /* Membuat sudut gambar melengkung */
+}

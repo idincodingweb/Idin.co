@@ -1,0 +1,44 @@
+/* Skills.css */
+.projekcuy {
+  margin-bottom: 20px;
+}
+
+.skills-section {
+  background-color: #f8f9fa;
+}
+
+.skill {
+  margin-bottom: 1.5rem;
+}
+
+.skill h6 {
+  margin-bottom: 0.5rem;
+}
+
+.progress {
+  height: 20px;
+}
+
+.nav-pills .nav-link {
+  border-radius: 0;
+}
+
+.tab-content {
+  border: 2px solid #007bff;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+}
+
+.tab-content .row {
+  margin: -1.5rem;
+}
+
+.tab-content .col-sm-6 {
+  padding: 1.5rem;
+}
+
+.tab-content hr {
+  border-color: #007bff;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}

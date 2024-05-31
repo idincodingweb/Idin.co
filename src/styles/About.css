@@ -1,0 +1,34 @@
+/* About.css */
+
+.about-section {
+  background-color: #f8f9fa; /* Warna latar belakang */
+  padding: 100px 0; /* Sesuaikan padding dengan kebutuhan desain Anda */
+}
+
+.about-title {
+  font-size: 2.5rem; /* Ukuran font judul */
+}
+
+.about-text {
+  font-size: 1rem; /* Ukuran font teks */
+  color: #666; /* Warna teks */
+}
+
+@media (min-width: 992px) {
+  .text-lg-start {
+    text-align: left; /* Penataan teks ke kiri untuk layar yang lebih besar */
+  }
+}
+
+
+@media (min-width: 992px) {
+  .about-section {
+    padding: 120px 0; /* Atur ruang atas dan bawah */
+  }
+}
+
+@media (max-width: 991.98px) {
+  .about-section {
+    padding: 60px 0; /* Atur ruang atas dan bawah */
+  }
+}

@@ -21,7 +21,7 @@ const Hero = () => {
             </div>
           </Col>
           <Col lg={6}>
-            <img className="img-fluid" src="https://raw.githubusercontent.com/idincodingweb/landingpagekece.com/master/img/idinganteng.png" alt="Idin Ganteng" />
+            <img className="img-fluid" src="https://raw.githubusercontent.com/idincodingweb/packgambar/refs/heads/main/IMG_20241031_001653.jpg" alt="Idin Ganteng" />
           </Col>
         </Row>
       </Container>

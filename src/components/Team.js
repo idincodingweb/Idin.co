@@ -40,7 +40,7 @@ const Team = () => {
           </Col>
           <Col lg={4} md={6} className="wow fadeInUp" data-wow-delay="0.5s">
             <div className="team-item position-relative">
-              <img className="img-fluid rounded" src="https://raw.githubusercontent.com/idincodingweb/idinxlara/main/img/galeri2.png" alt=" " />
+              <img className="img-fluid rounded" src="https://raw.githubusercontent.com/idincodingweb/packgambar/refs/heads/main/IMG_20241031_001653.jpg" alt=" " />
               <div className="team-text bg-white rounded-end p-4">
                 <div>
                   <h5>Idin Code</h5>

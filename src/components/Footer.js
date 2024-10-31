@@ -7,7 +7,7 @@ function Footer() {
       <Container>
         <Row className="border-top justify-content-center p-3">
           <Col md={6} sm={6}>
-            &copy; 2024 Idin Code | Design By Intan Aulia | Assitant Cristin Julia
+            &copy; 2024 Idin Code | Design By Intan Aulia | Assitant Diana Febianti
           </Col>
         </Row>
       </Container>

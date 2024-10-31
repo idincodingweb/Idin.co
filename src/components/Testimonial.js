@@ -32,7 +32,7 @@ const Testimonial = () => {
                       <i className="fa fa-quote-left text-primary"></i>
                     </div>
                   </div>
-                  <p className="fs-5 fst-italic">Karya fotografi Idin Code memukau! Setiap momen terabadikan dengan sempurna, menghadirkan keindahan dan emosi yang tak terlupakan. Inspiratif dan profesional!</p>
+                  <p className="fs-5 fst-italic">Idin Code memukau! Setiap semua pesanan aplikasi web dikerjakan dengan sagat profesional, dan pastinya cepat banget . terimakasih idin code !</p>
                   <hr className="w-25 mx-auto" />
                   <h5>Baby Sarah</h5>
                   <span>Makeup Over</span>
@@ -46,7 +46,7 @@ const Testimonial = () => {
                       <i className="fa fa-quote-left text-primary"></i>
                     </div>
                   </div>
-                  <p className="fs-5 fst-italic">Idin Code menghadirkan karya-karya fotografi yang memukau dan berkesan. Setiap foto membawa cerita yang mendalam dan keindahan yang tiada tara. Kreativitas dan keahlian yang luar biasa!</p>
+                  <p className="fs-5 fst-italic">Idin Code menghadirkan karya-karya pemerograman web yang sangat luar biasa berkat idin code saya memiliki web yg interaktive dengan react js. terimakasih idin code</p>
                   <hr className="w-25 mx-auto" />
                   <h5>Dani Alexander</h5>
                   <span>Teacher</span>
@@ -60,7 +60,7 @@ const Testimonial = () => {
                       <i className="fa fa-quote-left text-primary"></i>
                     </div>
                   </div>
-                  <p className="fs-5 fst-italic">Foto-foto karya Idin Code sungguh memukau! Tiap jepretan menjadi kisah yang menggetarkan hati dan mata. Bravo untuk keahlian dan dedikasinya dalam dunia fotografi!</p>
+                  <p className="fs-5 fst-italic">Idin code adalah jasa pembuatan aplikasi web yg sangat bagus pengerjaan cepat dan juga keamanan web benar2 bagus juga desainnya keren. terimakasih idin code !</p>
                   <hr className="w-25 mx-auto" />
                   <h5>Jhon Martin</h5>
                   <span>Editor</span>
